@@ -1,2 +1,2 @@
 ### this is basic website
-## for demo
+## for demo purpose
